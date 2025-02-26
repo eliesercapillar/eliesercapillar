@@ -7,7 +7,7 @@ Oh, and I like making games too. <img src="https://emojis.slackmojis.com/emojis/
 Check out my [work](https://www.eliesercapillar.dev/).
 
 ## Main Technologies 💻
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,vue,ts,tailwind,git,githubactions,docker)
+![SkillIcons](https://skillicons.dev/icons?i=cs,dotnet,unity,vue,ts,tailwind,git,githubactions,docker)
 
 ## Lets Connect! 🔥
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:elieser.capillar@gmail.com)
