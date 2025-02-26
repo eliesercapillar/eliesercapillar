@@ -5,10 +5,10 @@ Oh, and I like making games too 🎮.
 
 See more of my [work](https://www.eliesercapillar.dev/).
 
-## Main Technologies
+## Main Technologies 💻
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,vue,ts,tailwind,git,githubactions,docker)
 
-## Connect With Me
+## Lets Connect! 🔥
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:elieser.capillar@gmail.com)
 [![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eliesercapillar/)
-[![SkillIcons](https://skillicons.dev/icons?i=discord)](discordapp.com/users/eliesercapillar)
+[![SkillIcons](https://skillicons.dev/icons?i=discord)](https://www.discordapp.com/users/eliesercapillar/)
