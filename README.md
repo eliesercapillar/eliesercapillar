@@ -1,8 +1,8 @@
-# 👋 Hey! My name is Eli.
+# 👋 Hey, I'm Eli!
 
-I make things I think may be interesting, fun, or useful! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+I make things I think may be interesting, fun, or useful!
 
-Oh, and I like making games too 🎮.
+Oh, and I like making games too. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="15"/> 
 
 See more of my [work](https://www.eliesercapillar.dev/).
 
