@@ -9,4 +9,4 @@ See more of my work [here](https://www.eliesercapillar.dev/).
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,vue,ts,tailwind,git,githubactions,docker)
 
 ## Connect With Me
-[[SkillIcons](https://skillicons.dev/icons?i=gmail)](elieser.capillar@gmail.com)
+[![SkillIcons](https://skillicons.dev/icons?i=gmail)](elieser.capillar@gmail.com)
