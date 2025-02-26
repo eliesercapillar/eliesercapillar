@@ -10,3 +10,5 @@ See more of my [work](https://www.eliesercapillar.dev/).
 
 ## Connect With Me
 [![SkillIcons](https://skillicons.dev/icons?i=gmail)](mailto:elieser.capillar@gmail.com)
+[![SkillIcons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/eliesercapillar/)
+[![SkillIcons](https://skillicons.dev/icons?i=discord)](discordapp.com/users/eliesercapillar)
