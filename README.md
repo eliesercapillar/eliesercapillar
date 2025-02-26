@@ -4,7 +4,7 @@ I make things I think may be fun, interesting, or useful!
 
 Oh, and I like making games too. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
-See more of my [work](https://www.eliesercapillar.dev/).
+Check out my [work](https://www.eliesercapillar.dev/).
 
 ## Main Technologies 💻
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,vue,ts,tailwind,git,githubactions,docker)
