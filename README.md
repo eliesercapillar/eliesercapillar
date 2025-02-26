@@ -6,7 +6,7 @@ Oh, and I like making games too 🎮.
 See more of my work [here](https://www.eliesercapillar.dev/).
 
 ## Technologies I Mainly Use
-[My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,vue,ts,tailwind,git,githubactions,docker)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,vue,ts,tailwind,git,githubactions,docker)]
 
 ## Connect With Me
 [[SkillIcons](https://skillicons.dev/icons?i=gmail)](elieser.capillar@gmail.com)
